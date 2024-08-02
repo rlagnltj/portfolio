@@ -15,9 +15,11 @@
 - 'css'
 
 # 주요 기능
-####노약자를 위한 충주 홍보사이트 <"file:///C:/Users/User/Downloads/%EB%85%B8%EC%95%BD%EC%9E%90%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%B5%9C%EC%A2%85%20(5)/Chungju-main/Chungju-main/index.html"> >ShowCode - <https://github.com/rlagnltj/chungju-site?>
-- 노약자를 위한 충주 홍보사이트 버튼을 클릭하면 내가 만든 페이지로 넘어감, ShowCode버튼을 클릭하면 내가 만든 코드가 나옴.
-####더 많은 관광지 보기 <https://www.tripadvisor.co.kr/Attractions-g1047895-Activities-Chungju_Chungcheongbuk_do.html>
-- 더 많은 관광지 보기 버튼을 클릭하면 관광 사이트로 넘어감.
-####인스타그램 버튼 클릭 <https://www.instagram.com/chungsta/>
-- 인스타그램 아이콘 버튼을 클릭하면 충주시 인스타그램으로 넘어감.
+#### 노약자를 위한 충주 홍보사이트 
+ShowCode - <"https://github.com/rlagnltj/chungju-site?">
+- 노약자를 위한 충주 홍보사이트 버튼을 클릭하면 만든 웹페이지를 넘기면서 볼 수 있음.
+- ShowCode 버튼을 클릭하면 내가 만든 코드가 충주 홍보사이트웹 코드가 나옴.
+#### skills >Backend, Frontend, Other
+- 내가 주로 사용한 언어들의 사용빈도를 확인할 수 있음.
+#### 글쓴이의말, 자기소개, 작품, 사용한 기술 
+- 해당 버튼을 클릭하면 다른 페이지로 넘어감.
